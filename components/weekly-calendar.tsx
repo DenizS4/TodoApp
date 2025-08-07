@@ -90,7 +90,7 @@ export function WeeklyCalendar({ weekStart, activities, onActivityClick, getActi
   const weekDays = getWeekDays()
 
   return (
-    <Card className="bg-white/10 backdrop-blur-sm border-white/20 overflow-hidden">
+    <Card className="bg-white/10 border-white/20 overflow-hidden">
       <div className="flex">
         {/* Time column - always on left */}
         <div className="w-12 lg:w-20 bg-white/5 flex-shrink-0">
