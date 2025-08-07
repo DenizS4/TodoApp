@@ -53,7 +53,7 @@ const PRESET_BACKGROUNDS: BackgroundOption[] = [
   { id: "lake1", name: "Mountain Lake", url: "https://www.rockymountaineer.com/sites/default/files/bp_summary_image/Emerald%20Lake%20-%20Credit%20Suran%20Gaw%2C%20Adobe%20Stock_1_0.jpeg", type: "preset" },
   { id: "sunset1", name: "Desert Sunset", url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtKs_MrPl3TyM16oBfevVcLKwG4gE32aE5Q&s", type: "preset" },
   { id: "field1", name: "Lavender Field", url: "https://media.istockphoto.com/id/480975194/photo/sunrise-and-dramatic-clouds-over-lavender-field.jpg?s=612x612&w=0&k=20&c=9oOUcyMJrutCRxdOp0HYUz0avbuT4akmwKvL-aa_QkI=", type: "preset" },
-  { id: "ocean1", name: "Ocean Cliffs", url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDJil44cQo41wrJMlXbD_EVGDqE8kZP_QvA&s", type: "preset" },
+  { id: "ocean1", name: "Ocean Cliffs", url: "https://images.stockcake.com/public/4/a/0/4a0df6dc-9bc1-4045-b38a-21714cb3b965_large/cliffside-ocean-waves-stockcake.jpg", type: "preset" },
   { id: "aurora1", name: "Northern Lights", url: "https://res.cloudinary.com/icelandtours/g_auto,f_auto,c_auto,w_3840,q_auto:good/northern_lights_above_glacier_lagoon_v2osk_unsplash_7d39ca647f.jpg", type: "preset" },
   { id: "valley1", name: "Green Valley", url: "https://static.vecteezy.com/system/resources/thumbnails/053/729/892/small_2x/serene-green-valley-river-landscape-sunrise-nature-scene-photo.jpeg", type: "preset" },
   { id: "waterfall1", name: "Waterfall", url: "https://media.cntraveler.com/photos/571945e380cf3e034f974b7d/4:3/w_2048,h_1536,c_limit/waterfalls-Seljalandsfoss-GettyImages-457381095.jpg", type: "preset" },
