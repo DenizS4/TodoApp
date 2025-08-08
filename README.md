@@ -6,7 +6,7 @@ Plan your week, set priorities, and enjoy a customizable background experience.
 ![TodoApp Screenshot](public/screenshot.PNG)
 
 ## 🚀 Live Demo
-🔗 **[View Live on Vercel](https://todo-app-nine-flax-19.vercel.app/)**
+🔗 **[View Live](https://todo-app-nine-flax-19.vercel.app/)**
 
 ---
 
