@@ -3,7 +3,7 @@
 A visually stunning **calendar-based Todo application** built with **Next.js**, **React**, and **Tailwind CSS**.  
 Plan your week, set priorities, and enjoy a customizable background experience.
 
-![TodoApp Screenshot](public/screenshot.png)
+![TodoApp Screenshot](public/screenshot.PNG)
 
 ## 🚀 Live Demo
 🔗 **[View Live on Vercel](https://todo-app-nine-flax-19.vercel.app/)**
